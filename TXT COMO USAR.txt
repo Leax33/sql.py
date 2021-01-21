@@ -1,0 +1,6 @@
+pkg install git
+pkg install python
+git clone https://github.com/tuhin1729/SQLi
+cd SQLi
+pip install -r requirements.txt
+python3 SQLi.py
