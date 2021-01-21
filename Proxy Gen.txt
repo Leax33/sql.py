@@ -1,0 +1,7 @@
+Instalar en Termux:
+pkg install git 
+pkg install python2
+git clone github.com/tuhin1729/ProxyGen.git
+cd ProxyGen 
+pip2 install -r requirements.txt 
+python2 proxygen.py
